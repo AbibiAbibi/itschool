@@ -1,7 +1,0 @@
-Account Holder: andrei
-Account Number: 1007930683
-Balance: 7000.0
-Transactions:
-Deposit: +3000.0
-Transfer to ionut: -2000.0
-Deposit: +6000.0
