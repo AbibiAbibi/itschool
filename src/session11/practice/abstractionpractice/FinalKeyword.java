@@ -1,4 +1,4 @@
-package session11.abstractionpractice;
+package session11.practice.abstractionpractice;
 
 public class FinalKeyword {
 
